@@ -2,7 +2,7 @@
     Discord Crasher
 </h1>
 
-<h3 align="center">Crash anyones Discord client with custom video's!</h3>
+<h3 align="center">Outdated Software</h3>
 
 <p align="center">
   <a href="#about">About</a> •
@@ -11,7 +11,7 @@
 
 ## About
 
-This tool should make it easier to create video's that will crash your Discord client.
+**This tool is no obsolete as Discord has issued an update that makes these video's useless.**
 
 Everything you can see here has been made for educational purposes and proof of concepts. 
 I do not promote the usage of my tools, I do not take responsability on the bad usage of this tool.
